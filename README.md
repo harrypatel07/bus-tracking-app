@@ -41,7 +41,7 @@ Repository
 └── docs (for any related docs)
 </pre>
 
-__We essentially split the system into 3 parts__
+__We essentially split the system into 5 parts__
 
 __1. Rpi with Camera__
 - Capture photo at an interval
