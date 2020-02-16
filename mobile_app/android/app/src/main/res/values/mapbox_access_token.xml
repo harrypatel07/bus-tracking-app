@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cyberjaya_super_com">Navigation map</string>
+    <string name="mapbox_access_token" translatable="false">pk.eyJ1IjoibXJhZnN5YW0iLCJhIjoiY2swcG0wOGt6MDgwNDNjb3Y1dGNlNWQ3aSJ9.GPPovADETa_cMYcVnOKDMQ</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+</resources>
